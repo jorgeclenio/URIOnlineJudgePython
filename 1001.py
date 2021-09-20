@@ -3,4 +3,4 @@
 a = int(input())
 b = int(input())
 
-print("X =", a+b)
+print("X = {}".format(a+b))
