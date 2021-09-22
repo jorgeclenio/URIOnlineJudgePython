@@ -1,4 +1,4 @@
-# https://www.urionlinejudge.com.br/judge/pt/problems/view/10010
+# https://www.urionlinejudge.com.br/judge/pt/problems/view/1010
 # -*- coding: utf-8 -*-
 entrada1 = input().split()
 cp1 = int(entrada1[0])
